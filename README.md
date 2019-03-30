@@ -3,5 +3,5 @@ Python code that retrieves words that are similar meaning, same sounding, rhymin
 
 The program utilises the datamuse api and makes requests to get the required answers.
 
-# to run:
+# To run:
 download the python file and run it.
